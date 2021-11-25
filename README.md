@@ -1,4 +1,4 @@
-# BootcampDIO-NetflixClone
+# Netflix Clone
 ---
 ## Descrição
 
