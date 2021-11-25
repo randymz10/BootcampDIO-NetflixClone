@@ -1,8 +1,9 @@
 # BootcampDIO-NetflixClone
-
+---
 ## Descrição
 
 Código do projeto "Recriando a Interface do Netflix" da Digital Innovation One do bootcamp HTML Web Developer com o especialista Felipe Aguiar
+
 ---
 ## Tecnologias
 - HTML 5
@@ -10,5 +11,6 @@ Código do projeto "Recriando a Interface do Netflix" da Digital Innovation One 
 - Flexbox
 - Javascript
 - Jquerys
+
 ---
 **Link repositorio original** https://github.com/SpruceGabriela/instagram-dio
