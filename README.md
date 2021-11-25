@@ -10,7 +10,7 @@ Código do projeto "Recriando a Interface do Netflix" da Digital Innovation One 
 - CSS 3
 - Flexbox
 - Javascript
-- Jquerys
+- Jquery
 
 ---
 **Link repositorio original** https://github.com/felipeAguiarCode/netflix-clone
