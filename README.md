@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone :file_folder:
 ---
 ## Descrição
 
