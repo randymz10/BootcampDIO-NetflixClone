@@ -13,4 +13,4 @@ Código do projeto "Recriando a Interface do Netflix" da Digital Innovation One 
 - Jquerys
 
 ---
-**Link repositorio original** https://github.com/SpruceGabriela/instagram-dio
+**Link repositorio original** https://github.com/felipeAguiarCode/netflix-clone
