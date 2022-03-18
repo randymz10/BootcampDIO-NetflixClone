@@ -19,7 +19,7 @@ Código do projeto "Recriando a Interface do Netflix" da Digital Innovation One 
 
 ---
 ## Demo
-https://randymz10.github.io/BootcampDIO-NetflixClone/
+https://randymz10.github.io/BootcampDIO-NetflixClone/ <br>
 **Link repositorio original** https://github.com/felipeAguiarCode/netflix-clone
 
 ## Autor
