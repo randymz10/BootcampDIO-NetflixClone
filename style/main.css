@@ -23,11 +23,12 @@ header .container{
     justify-content: space-between;
 }
 
-header .logo{
+header .logo a{
     margin-left: 5px;
     color: var(--vermelho);
     font-family: 'Arial Black', Times;
     font-size: 40px;
+    text-decoration: none; 
 }
 
 header nav a{
@@ -44,7 +45,7 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/spiderman-portada.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url("/img/spiderman-portada.jpg");
 
     height: 400px;
     background-size: cover;
