@@ -1,8 +1,6 @@
 # Netflix Clone :file_folder:
----
-## Descrição
 
-Código do projeto "Recriando a Interface do Netflix" da Digital Innovation One do bootcamp HTML Web Developer com o especialista Felipe Aguiar.
+Project code "Recreating the Netflix Interface" by Digital Innovation One from the HTML Web Developer bootcamp with specialist Felipe Aguiar.
 
 ---
 ## Screenshot
@@ -10,7 +8,7 @@ Código do projeto "Recriando a Interface do Netflix" da Digital Innovation One 
 ![](/img/page-netflix-clone.jpg)
 
 ---
-## Tecnologias
+## Build in
 - HTML 5
 - CSS 3
 - Flexbox
@@ -20,7 +18,7 @@ Código do projeto "Recriando a Interface do Netflix" da Digital Innovation One 
 ---
 ## Demo
 https://randymz10.github.io/BootcampDIO-NetflixClone/ <br>
-**Link repositorio original** https://github.com/felipeAguiarCode/netflix-clone
+**Original repository link** https://github.com/felipeAguiarCode/netflix-clone
 
-## Autor
+## Author
 [@randymz10](https://github.com/randymz10)
